@@ -1,6 +1,7 @@
 # DevOps Real time Project using CI/CD Pipelines
 
 ## About Project
+In this Devops Project I have created a **CI/CD Pipeline** using **Jenkins** on **Tomcat Server**. This CI/CD Pipeline will fetch code from **GitHub** and **continously check** for any updates in the code (Poll SCM), it will then **Build** and **review code** using **Ant**, then it will **test** the code and finally **deploy** the **WebApp**. All this process will be **completely automated** with **CI/CD Pipeline** starting with code fetch from **Github**
 
 
 ## Software installation and setup
