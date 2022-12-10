@@ -27,3 +27,17 @@ Path of webapps on local machine- <br>
 **C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps**<br>
 - **Ant** - Apache ANT is a Java based **build tool** from Apache Software Foundation. Apache ANT's build files are written in XML. They are open standard, portable and easy to understand.
 
+
+## Steps -
+- Cut Jenkins.war file and paste in C:/apache/Tomcat/Webapps
+- Now Jenkisns will be visible on Tomcat -> localhost:8080
+- Start the service
+- Configure Jenkins
+- Choose plugins to install
+- Jenkins URL (in companies private IP is given but we will do it on localhost:8080)
+- start
+
+
+## Jobs 
+
+
